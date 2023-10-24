@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **mrajkishor331@gmail.com**
 
-- 📄 Know about my experiences [https://mrajkishor.github.io/resume](https://mrajkishor.github.io/resume)
+- 📄 Know about my experiences [Download resume](https://github.com/mrajkishor/mrajkishor.github.io/raw/3201410d5b6dec3aab1f65738235a01f3ca3c899/resume/Rajkishor_Maharana_Resume.docx)
 
 - ⚡ Fun fact **Did MCA after BTech**
 
