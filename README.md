@@ -30,7 +30,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mrajkishor331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrajkishor331" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/users/20229572/m-raj-kishor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/20229572/m-raj-kishor" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20229572/m-raj-kishor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/20229572/m-raj-kishor" height="30" width="40" /></a>
 <a href="https://medium.com/@mrajkishor331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mrajkishor331" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mrajkishor331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mrajkishor331" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mrajkishor331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mrajkishor331" height="30" width="40" /></a>
