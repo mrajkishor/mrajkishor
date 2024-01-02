@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [GYVOR](https://github.com/mrajkishor/Gyvor)
+- 🔭 I’m currently working on [Vyro](https://github.com/mrajkishor/Vyro)
 
 - 🌱 I’m currently learning **React JS, React Native and Serverless with AWS**
 
-- 👯 I’m looking to collaborate on [GYVOR](https://github.com/mrajkishor/Gyvor)
+- 👯 I’m looking to collaborate on [Vyro](https://github.com/mrajkishor/Vyro)
 
-- 🤝 I’m looking for help with [GYVOR](https://github.com/mrajkishor/Gyvor)
+- 🤝 I’m looking for help with [Vyro](https://github.com/mrajkishor/Vyro)
 
 - 👨‍💻 All of my projects are available at [https://mrajkishor.github.io/portfolio](https://mrajkishor.github.io/portfolio)
 
