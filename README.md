@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Vyro](https://github.com/mrajkishor/Vyro)
+- 🔭 I’m currently working on [IMS-Invoice-services](https://github.com/mrajkishor/IMS-Invoice-services)
 
 - 🌱 I’m currently learning **React JS, React Native and Serverless with AWS**
 
-- 👯 I’m looking to collaborate on [Vyro](https://github.com/mrajkishor/Vyro)
+- 👯 I’m looking to collaborate on [IMS-Invoice-services](https://github.com/mrajkishor/IMS-Invoice-services)
 
-- 🤝 I’m looking for help with [Vyro](https://github.com/mrajkishor/Vyro)
+- 🤝 I’m looking for help with [IMS-Invoice-services](https://github.com/mrajkishor/IMS-Invoice-services)
 
 - 👨‍💻 All of my projects are available at [https://mrajkishor.github.io/portfolio](https://mrajkishor.github.io/portfolio)
 
