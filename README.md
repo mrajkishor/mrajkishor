@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [IMS-Invoice-services](https://github.com/mrajkishor/IMS-Invoice-services)
 
-- 🌱 I’m currently learning **React JS, React Native and Serverless with AWS**
+- 🌱 I’m currently making the project with **React JS, React Native and Serverless with AWS**
 
 - 👯 I’m looking to collaborate on [IMS-Invoice-services](https://github.com/mrajkishor/IMS-Invoice-services)
 
