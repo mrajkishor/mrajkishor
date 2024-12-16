@@ -7,14 +7,13 @@
 
 - 🔭 I’m currently working on <!-- [E-commerce Microservices Application](https://github.com/mrajkishor/ecommerce-application) & -->
    [IMS-Invoice-services](https://github.com/mrajkishor/IMS-Invoice-services)
-
+ <!-- 
 - 🌱 I’m building the **E-commerce** project using **Spring Boot**, **React JS**, **React Native**, **Docker**, **Kubernetes**, and **AWS**
-<!---
 - 👯 I’m looking to collaborate on [E-commerce Microservices Application](https://github.com/mrajkishor/ecommerce-application)
 
-- 🤝 I’m looking for help with [E-commerce Microservices Application](https://github.com/mrajkishor/ecommerce-application) -->
+- 🤝 I’m looking for help with [E-commerce Microservices Application](https://github.com/mrajkishor/ecommerce-application)
 
-- 💬 Ask me about **Java**, **Spring Boot**, **React**, **Microservices**, **Jest**, and **React Testing Library**
+- 💬 Ask me about **Java**, **Spring Boot**, **React**, **Microservices**, **Jest**, and **React Testing Library** -->
 
 - 📫 How to reach me **mrajkishor331@gmail.com**
 
