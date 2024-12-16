@@ -5,20 +5,20 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [E-commerce Microservices Application](https://github.com/mrajkishor/ecommerce-application)  
-  & [IMS-Invoice-services](https://github.com/mrajkishor/IMS-Invoice-services)
+- 🔭 I’m currently working on <!-- [E-commerce Microservices Application](https://github.com/mrajkishor/ecommerce-application) & -->
+   [IMS-Invoice-services](https://github.com/mrajkishor/IMS-Invoice-services)
 
 - 🌱 I’m building the **E-commerce** project using **Spring Boot**, **React JS**, **React Native**, **Docker**, **Kubernetes**, and **AWS**
-
+<!---
 - 👯 I’m looking to collaborate on [E-commerce Microservices Application](https://github.com/mrajkishor/ecommerce-application)
 
-- 🤝 I’m looking for help with [E-commerce Microservices Application](https://github.com/mrajkishor/ecommerce-application)
+- 🤝 I’m looking for help with [E-commerce Microservices Application](https://github.com/mrajkishor/ecommerce-application) -->
 
 - 💬 Ask me about **Java**, **Spring Boot**, **React**, **Microservices**, **Jest**, and **React Testing Library**
 
 - 📫 How to reach me **mrajkishor331@gmail.com**
 
-- 📄 Know about my experiences [https://mrajkishor.github.io/resume](https://mrajkishor.github.io)
+<!--- - 📄 Know about my experiences [https://mrajkishor.github.io/resume](https://mrajkishor.github.io)-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
