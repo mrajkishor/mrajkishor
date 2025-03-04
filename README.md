@@ -34,6 +34,21 @@ My best commits start with `git commit --amend` 🚀
 
 If you like mysterious code and last-minute debugging, you're in the right place! 🚀  
 
+---
+
+## 🤔 Lost? Confused? Questioning Your Existence?  
+Good news! I’ve documented **everything** (even my own confusion) at:  
+👉 **[My Notes Repository](https://mrajkishor.github.io/)**  
+(Yes, I actually write things down before I forget them. 😆)  
+
+🚨 **WARNING:** Side effects of visiting my notes may include:  
+- Uncontrollable urge to debug old code 🐛  
+- Realization that technology moves too fast 🚀  
+- Sudden need for coffee ☕  
+
+💾 **Final Thought:**  
+If this README doesn’t make sense… don’t worry, neither does half of my code. 😆  
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrajkishor&label=Profile%20views&color=0e75b6&style=flat" alt="mrajkishor" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrajkishor" alt="mrajkishor" /></a> </p>
