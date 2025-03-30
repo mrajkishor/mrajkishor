@@ -12,9 +12,9 @@
   </a> 
 </p>
 
-- 🌱 I’m building and maintaining the 📈 [IMS Invoice Services](https://gitlab.com/ims2712841/invoice-services) project — a serverless application with **AWS Lambda (Java)** on the backend and **React Native** on the frontend.
+- 🌱 I’m building and maintaining the 📈 [IMS Invoice Services](https://github.com/mrajkishor/IMS-Invoice-services) project — a serverless application with **AWS Lambda (Java)** on the backend and **React Native** on the frontend.
 
-- 👯 I’m open to collaborating on 📈 [IMS - Invoice Services](https://gitlab.com/ims2712841/invoice-services) and 🛒 [E-commerce Microservices Application](https://github.com/mrajkishor/ecommerce-application).
+- 👯 I’m open to collaborating on 📈 [IMS - Invoice Services](https://github.com/mrajkishor/IMS-Invoice-services) and 🛒 [E-commerce Microservices Application](https://github.com/mrajkishor/ecommerce-application).
 
 - 💬 Ask me about **React**, **Java**, **Spring Boot**, **AWS**, **Microservices**, **MFE**, **Jest**, **Unit Testing** etc.
 
