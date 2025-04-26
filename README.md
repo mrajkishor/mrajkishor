@@ -1,6 +1,6 @@
 # Hi, I am Raj 👋 
 
-💻 **Full-Stack Developer | Emerging Tech Enthusiast**
+💻 **Full-Stack Developer | React / Java / Microservices / MFE / Distributed Systems / DSA / System Design**
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mrajkishor&label=Profile%20views&color=0e75b6&style=flat" alt="mrajkishor" /> 
