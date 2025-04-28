@@ -1,4 +1,4 @@
-# Hi, I am Raj 👋 
+# Hi, I am Raj Kishor 👋 
 
 💻 **Full-Stack Developer | React / Java / Microservices / MFE / Distributed Systems / DSA / System Design**
 
@@ -12,14 +12,16 @@
   </a> 
 </p>
 
-- 🌱 I’m building and maintaining the 📈 [IMS Invoice Services](https://github.com/mrajkishor/IMS-Invoice-services) project — a serverless application with **AWS Lambda (Java)** on the backend and **React Native** on the frontend.
+🌱 I’m building and maintaining  
+- 📈 **[IMS - Invoice Services](https://github.com/mrajkishor/IMS-Invoice-services)**: A serverless invoicing platform with AWS Lambda (Java backend) and React Native frontend.  
+- 🛒 **[ShopSync](https://github.com/mrajkishor/ShopSync)**: Edge-Powered Inventory and Logistics Suite.  
+- 🛠️ **[Distributed Task Scheduler](https://github.com/mrajkishor/Distributed-Task-Scheduler)**: A scalable, fault-tolerant distributed task scheduler built with Java, Spring Boot, Kafka, Redis, and Docker. Supports delayed jobs, retries, backoff strategies, worker orchestration, and monitoring—designed for high availability and real-world system design practice.
 
-- 👯 I’m open to collaborating on 📈 [IMS - Invoice Services](https://github.com/mrajkishor/IMS-Invoice-services) and 🛒 [E-commerce Microservices Application](https://github.com/mrajkishor/ecommerce-application).
+👯 I’m open to collaborating on projects related to cloud-native applications, microservices, and mobile/web platforms.
 
-- 💬 Ask me about **React**, **Java**, **Spring Boot**, **AWS**, **Microservices**, **MFE**, **Jest**, **Unit Testing** etc.
+💬 Ask me about: **React, Java, Spring Boot, AWS, Microservices, Micro Frontends (MFE), Jest, Unit Testing**, and more.
 
-- 📫 Reach me at: **mrajkishor331@gmail.com**
-
+📫 Reach me at: **mrajkishor331@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
