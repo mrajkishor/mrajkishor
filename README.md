@@ -2,6 +2,8 @@
 
 ### 🔨 Projects
 
+
+* [Realtime Chat System](https://github.com/mrajkishor/realtime_chat_system) – e2ee realtime chat system built with distributed microservices, WebSockets, and Signal Protocol.
 * [Distributed Task Scheduler](https://github.com/mrajkishor/Distributed-Task-Scheduler) – Job scheduler for ETL Pipelines, microservices etc.
 * [IMSM](https://github.com/mrajkishor/IMS-Invoice-services) – Invoicing & inventory App for MSME.
 * [ShopSync](https://github.com/mrajkishor/ShopSync) – logistics & AI-based inventory forecasting
